@@ -1,0 +1,5 @@
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WebApplicationTestProject\bin\WebApplicationTestProject.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WebApplicationTestProject\bin\WebApplicationTestProject.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WebApplicationTestProject\obj\Debug\ResolveAssemblyReference.cache
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WebApplicationTestProject\obj\Debug\WebApplicationTestProject.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WebApplicationTestProject\obj\Debug\WebApplicationTestProject.pdb

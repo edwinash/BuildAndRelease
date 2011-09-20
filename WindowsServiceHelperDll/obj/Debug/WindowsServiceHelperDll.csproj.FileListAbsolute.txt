@@ -1,0 +1,10 @@
+F:\1.Work\BuildAndReleaseTestSolution\WindowsServiceHelperDll\bin\Debug\WindowsServiceHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\WindowsServiceHelperDll\bin\Debug\WindowsServiceHelperDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\WindowsServiceHelperDll\obj\Debug\ResolveAssemblyReference.cache
+F:\1.Work\BuildAndReleaseTestSolution\WindowsServiceHelperDll\obj\Debug\WindowsServiceHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\WindowsServiceHelperDll\obj\Debug\WindowsServiceHelperDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\bin\Debug\WindowsServiceHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\bin\Debug\WindowsServiceHelperDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\obj\Debug\ResolveAssemblyReference.cache
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\obj\Debug\WindowsServiceHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\obj\Debug\WindowsServiceHelperDll.pdb

@@ -1,0 +1,14 @@
+F:\1.Work\BuildAndReleaseTestSolution\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\WindowsFormsTest.exe
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\WindowsFormsTest.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\bin\Debug\MultiProjectSharedDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\bin\Debug\WinFormsHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\bin\Debug\MultiProjectSharedDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\bin\Debug\WinFormsHelperDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\WindowsFormsTest.Properties.Resources.resources
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\ResGen.read.1.tlog
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\ResGen.write.1.tlog

@@ -1,0 +1,10 @@
+F:\1.Work\BuildAndReleaseTestSolution\MultiProjectSharedDll\bin\Debug\MultiProjectSharedDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\MultiProjectSharedDll\bin\Debug\MultiProjectSharedDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\MultiProjectSharedDll\obj\Debug\ResolveAssemblyReference.cache
+F:\1.Work\BuildAndReleaseTestSolution\MultiProjectSharedDll\obj\Debug\MultiProjectSharedDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\MultiProjectSharedDll\obj\Debug\MultiProjectSharedDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\bin\Debug\MultiProjectSharedDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\bin\Debug\MultiProjectSharedDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\obj\Debug\ResolveAssemblyReference.cache
+F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\obj\Debug\MultiProjectSharedDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\obj\Debug\MultiProjectSharedDll.pdb

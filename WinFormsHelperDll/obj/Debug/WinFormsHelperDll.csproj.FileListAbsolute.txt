@@ -1,0 +1,10 @@
+F:\1.Work\BuildAndReleaseTestSolution\WinFormsHelperDll\bin\Debug\WinFormsHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\WinFormsHelperDll\bin\Debug\WinFormsHelperDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\WinFormsHelperDll\obj\Debug\ResolveAssemblyReference.cache
+F:\1.Work\BuildAndReleaseTestSolution\WinFormsHelperDll\obj\Debug\WinFormsHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\WinFormsHelperDll\obj\Debug\WinFormsHelperDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\bin\Debug\WinFormsHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\bin\Debug\WinFormsHelperDll.pdb
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\obj\Debug\ResolveAssemblyReference.cache
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\obj\Debug\WinFormsHelperDll.dll
+F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\obj\Debug\WinFormsHelperDll.pdb
