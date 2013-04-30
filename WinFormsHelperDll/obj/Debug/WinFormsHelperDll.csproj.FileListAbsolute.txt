@@ -8,3 +8,7 @@ F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\bin\Debug\WinFo
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\obj\Debug\ResolveAssemblyReference.cache
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\obj\Debug\WinFormsHelperDll.dll
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll\obj\Debug\WinFormsHelperDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll\bin\Debug\WinFormsHelperDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll\bin\Debug\WinFormsHelperDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll\obj\Debug\WinFormsHelperDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll\obj\Debug\WinFormsHelperDll.pdb

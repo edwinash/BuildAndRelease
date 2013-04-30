@@ -8,3 +8,7 @@ F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\bin\Debug\M
 F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\obj\Debug\ResolveAssemblyReference.cache
 F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\obj\Debug\MultiProjectSharedDll.dll
 F:\1.Work\BuildAndReleaseTestSolution\Solution\MultiProjectSharedDll\obj\Debug\MultiProjectSharedDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\MultiProjectSharedDll\bin\Debug\MultiProjectSharedDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\MultiProjectSharedDll\bin\Debug\MultiProjectSharedDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\MultiProjectSharedDll\obj\Debug\MultiProjectSharedDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\MultiProjectSharedDll\obj\Debug\MultiProjectSharedDll.pdb

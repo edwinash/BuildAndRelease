@@ -12,3 +12,15 @@ F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\Re
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\WindowsFormsTest.Properties.Resources.resources
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\ResGen.read.1.tlog
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsFormsTest\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\bin\Debug\MultiProjectSharedDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\bin\Debug\WinFormsHelperDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\bin\Debug\MultiProjectSharedDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\bin\Debug\WinFormsHelperDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\obj\x86\Debug\WindowsFormsTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\obj\x86\Debug\WindowsFormsTest.Properties.Resources.resources
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\obj\x86\Debug\WindowsFormsTestProject.csproj.GenerateResource.Cache
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\obj\x86\Debug\WindowsFormsTest.exe
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsFormsTest\obj\x86\Debug\WindowsFormsTest.pdb

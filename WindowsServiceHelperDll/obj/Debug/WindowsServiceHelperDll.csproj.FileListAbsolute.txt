@@ -8,3 +8,7 @@ F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\bin\Debug
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\obj\Debug\ResolveAssemblyReference.cache
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\obj\Debug\WindowsServiceHelperDll.dll
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceHelperDll\obj\Debug\WindowsServiceHelperDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceHelperDll\bin\Debug\WindowsServiceHelperDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceHelperDll\bin\Debug\WindowsServiceHelperDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceHelperDll\obj\Debug\WindowsServiceHelperDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceHelperDll\obj\Debug\WindowsServiceHelperDll.pdb

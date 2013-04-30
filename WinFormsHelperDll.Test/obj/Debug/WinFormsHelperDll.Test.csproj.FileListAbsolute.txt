@@ -5,3 +5,10 @@ F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll.Test\bin\Debug\
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll.Test\obj\Debug\ResolveAssemblyReference.cache
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll.Test\obj\Debug\WinFormsHelperDll.Test.dll
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WinFormsHelperDll.Test\obj\Debug\WinFormsHelperDll.Test.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll.Test\bin\Debug\WinFormsHelperDll.Test.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll.Test\bin\Debug\WinFormsHelperDll.Test.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll.Test\bin\Debug\WinFormsHelperDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll.Test\bin\Debug\WinFormsHelperDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll.Test\obj\Debug\WinFormsHelperDll.Test.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll.Test\obj\Debug\WinFormsHelperDll.Test.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WinFormsHelperDll.Test\obj\Debug\WinFormsHelperDll.Test.pdb

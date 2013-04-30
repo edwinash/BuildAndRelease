@@ -7,3 +7,12 @@ F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceTestProject\bin\Deb
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceTestProject\obj\x86\Debug\ResolveAssemblyReference.cache
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceTestProject\obj\x86\Debug\WindowsServiceTestProject.exe
 F:\1.Work\BuildAndReleaseTestSolution\Solution\WindowsServiceTestProject\obj\x86\Debug\WindowsServiceTestProject.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\bin\Debug\WindowsServiceTestProject.exe
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\bin\Debug\WindowsServiceTestProject.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\bin\Debug\MultiProjectSharedDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\bin\Debug\WindowsServiceHelperDll.dll
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\bin\Debug\MultiProjectSharedDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\bin\Debug\WindowsServiceHelperDll.pdb
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\obj\x86\Debug\WindowsServiceTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\obj\x86\Debug\WindowsServiceTestProject.exe
+C:\Users\Edwin\Documents\GitHub\BuildAndRelease\WindowsServiceTestProject\obj\x86\Debug\WindowsServiceTestProject.pdb
